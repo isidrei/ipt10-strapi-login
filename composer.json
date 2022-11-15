@@ -1,0 +1,17 @@
+{
+    "name": "isidrei/ipt10-strapi-login",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dan Isidrei Musni",
+            "email": "isidreimusni@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
